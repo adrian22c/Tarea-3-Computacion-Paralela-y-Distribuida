@@ -133,6 +133,6 @@ Esta transicion es un fenomeno fundamental en sistemas de comunicacion y es cruc
   * `estadisticas_mpi.py`: Implementacion de la parte A con operaciones colectivas MPI.
   * `latencia_mpi.py`: Implementacion de la parte B para medir latencia y generar grafico.
   * `latencia_vs_tamano.png`: Grafico generado con matplotlib mostrando latencia vs tamano de mensaje.
-  * `README.md`: Documentacion y analisis (este archivo).
+  * `README.md`: Documentacion y analisis.
 
 Este repositorio forma parte de la Tarea 3 del curso de Computacion Paralela y Distribuida, 2025.
