@@ -82,7 +82,7 @@ Los resultados son consistentes con lo esperado: el minimo y el maximo estan muy
 
 Se midio la latencia para diferentes tamanos de mensaje.
 
-```text
+```yaml
 --- latencia con mensaje de 1 byte ---
 Mensaje de 1 byte transmitido 10000 veces.
 Latencia promedio por mensaje (ida y vuelta): 2.54 microsegundos
@@ -97,12 +97,12 @@ Tamano 1024 bytes - Latencia promedio: 3.22 us
 --- medicion con 1MB ---
 Tamano 1048576 bytes - Latencia promedio: 2672.26 us
 
-Grafico guardado como latencia_vs_tamano.png
 ```
 
 ### Grafico: Latencia vs. Tamano de Mensaje
 
 El siguiente grafico fue generado por `latencia_mpi.py` y es clave para el analisis.
+
 ![Grafico de Latencia vs Tamano de Mensaje](latencia_vs_tamano.png)
 -----
 
