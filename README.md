@@ -88,13 +88,13 @@ Mensaje de 1 byte transmitido 10000 veces.
 Latencia promedio por mensaje (ida y vuelta): 2.54 microsegundos
 Latencia estimada unidireccional: 1.27 microsegundos
 
---- medicion con 1B, 1KB, 1MB ---
+--- medicion con 1B ---
 Tamano 1 bytes - Latencia promedio: 2.61 us
 
---- medicion con 1B, 1KB, 1MB ---
+--- medicion con 1KB ---
 Tamano 1024 bytes - Latencia promedio: 3.22 us
 
---- medicion con 1B, 1KB, 1MB ---
+--- medicion con 1MB ---
 Tamano 1048576 bytes - Latencia promedio: 2672.26 us
 
 Grafico guardado como latencia_vs_tamano.png
